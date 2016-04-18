@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.0.1"><source path="E:\newer\practice\Android\Zuji\PullRefresh\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\res"/></dataSet><dataSet config="main"><source path="E:\newer\practice\Android\Zuji\PullRefresh\src\main\res"><file path="E:\newer\practice\Android\Zuji\PullRefresh\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="refresh_PullRefreshLayout">
+        <attr format="enum" name="refreshType">
+            <enum name="material" value="0"/>
+            <enum name="circles" value="1"/>
+            <enum name="water_drop" value="2"/>
+            <enum name="ring" value="3"/>
+            <enum name="smartisan" value="4"/>
+        </attr>
+        <attr format="reference" name="refreshColors"/>
+        <attr format="reference" name="refreshColor"/>
+    </declare-styleable></file></source><source path="E:\newer\practice\Android\Zuji\PullRefresh\build\generated\res\rs\debug"/><source path="E:\newer\practice\Android\Zuji\PullRefresh\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="E:\newer\practice\Android\Zuji\PullRefresh\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="refresh_PullRefreshLayout"><attr format="enum" name="refreshType"><enum name="material" value="0"/><enum name="circles" value="1"/><enum name="water_drop" value="2"/><enum name="ring" value="3"/><enum name="smartisan" value="4"/></attr><attr format="reference" name="refreshColors"/><attr format="reference" name="refreshColor"/></declare-styleable></configuration></mergedItems></merger>
