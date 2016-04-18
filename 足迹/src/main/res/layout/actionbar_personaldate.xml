@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:id="@+id/personal_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:drawableLeft="@drawable/back"
+        android:gravity="center"
+        android:hapticFeedbackEnabled="true"
+        android:text="@string/action_back"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+
+
+    <TextView
+        android:id="@+id/personal_more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/action_more"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:layout_alignTop="@+id/personal_back"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

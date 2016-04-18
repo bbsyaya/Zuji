@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PullRefresh/PullRefresh.iml" filepath="$PROJECT_DIR$/PullRefresh/PullRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuji.iml" filepath="$PROJECT_DIR$/Zuji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/足迹/足迹.iml" filepath="$PROJECT_DIR$/足迹/足迹.iml" />
+    </modules>
+  </component>
+</project>
